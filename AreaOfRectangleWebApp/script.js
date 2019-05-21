@@ -66,7 +66,7 @@ window.onbeforeunload = function () {
 
 // Display Version
 var d = new Date();
-document.getElementById("version").innerHTML = "<strong>Version 1.0.2019521.80701.LM</strong><br>© " + d.getFullYear() + " KingKingGreat";
+document.getElementById("version").innerHTML = "<strong>Version 1.0.2019521.93701.LM</strong><br>© " + d.getFullYear() + " KingKingGreat";
 
 // Fade in page
 fade = window.setInterval(function() {animate("body", true)}, 100);
